@@ -1,6 +1,6 @@
 # Awesome-Custom-Enterprise-BI-Reporting
 
-# Top Custom Enterprise BI & Reporting Ecosystem
+## Top Custom Enterprise BI & Reporting Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Governed Self-Service Analytics, Embedded Reporting & Enterprise Data Exploration*  
