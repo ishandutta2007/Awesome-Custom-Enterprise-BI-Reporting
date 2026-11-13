@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-8865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Custom-Enterprise-BI-Reporting/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
@@ -66,9 +66,9 @@ A side-by-side comparison of leading proprietary enterprise BI platforms, sorted
 
 ## 💻 Open-Source GitHub Projects
 
-Community-driven, open-source BI engines and semantic layers sorted by **GitHub Stars (descending)**. Every project includes a live star badge linking directly to its stargazers page:
+Community-driven, open-source BI engines and semantic layers sorted by **GitHub_Stars (descending)**. Every project includes a live Stars_Badge linking directly to its stargazers page:
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | **The enterprise-grade open-source BI platform** (~75,500 stars, Apache-2.0). Ships with 40+ visualization types, a powerful SQL IDE, no-code chart builder, and custom visualization plugins. **Superset provides row-level security (RLS), dashboard embedding, and enterprise SSO completely free.** Connects to any SQL dialect at petabyte scale. |
 | **[Metabase](https://github.com/metabase/metabase)** | [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | **The user-friendly self-service BI tool** (~50,300 stars, AGPL). The open-source edition is free with unlimited users, questions, and dashboards across 20+ data sources (Postgres, BigQuery, Snowflake, ClickHouse). Features visual query builders, SQL editor, and automated email/Slack alerts. |
@@ -102,7 +102,7 @@ Contributions to this ecosystem catalog are warmly welcomed!
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a branch** for your addition (`git checkout -b add-tool-name`).
-3. 📝 **Add/update** the entries in `README.md` adhering to the table format (include official links, factual starting pricing, exact trial/free-tier boundaries, or GitHub star count badges).
+3. 📝 **Add/update** the entries in `README.md` adhering to the table format (include official links, factual starting pricing, exact trial/free-tier boundaries, or GitHub Stars_Count badges).
 4. 🚀 **Submit a Pull Request** with a brief summary explaining the addition.
 
 ---
